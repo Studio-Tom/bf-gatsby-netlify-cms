@@ -1,30 +1,21 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Orange County Personal Injury Lawyer
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: The Personal Injury Lawyer for You
+subheading: Talk to us about representing your injury today.
 mainpitch:
-  title: Why Kaldi
+  title: Why the Bertch Firm
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+    Southern California has its share of personal injury law firms. The Bertch
+    Firm cares about you, and works hard to get you the best result possible,
+    helping you through the legal process with transparency and honesty.
+description: "We handle injury cases in Orange County for in a wide range of
+  practice areas including:"
 intro:
   blurbs:
     - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+      text: Car Accidents
     - image: /img/coffee-gear.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and
